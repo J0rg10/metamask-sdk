@@ -1,7 +1,7 @@
 {
   "name": "@georgiotech/metamask-sdk-rn",
   "title": "Fork of MetaMask - ReactNative SDK",
-  "version": "0.203.8",
+  "version": "0.303.8",
   "description": "MetaMask SDK for React Native applications (sdk for react native bumped to JDK=17), enabling seamless integration with MetaMask for blockchain interactions.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/src/index.d.ts",
